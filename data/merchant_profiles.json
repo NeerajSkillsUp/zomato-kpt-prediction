@@ -1,0 +1,35 @@
+[
+  {
+    "merchant_id": "M001",
+    "name": "Cloud Kitchen - Biryani Hub",
+    "type": "cloud_kitchen",
+    "avg_orders_per_day": 150,
+    "cuisine": "indian",
+    "base_kpt_minutes": 22,
+    "concurrent_capacity": 8,
+    "for_accuracy": 0.72,
+    "rush_hours": [12, 13, 19, 20, 21]
+  },
+  {
+    "merchant_id": "M002",
+    "name": "Mid-Size - Pizza Corner",
+    "type": "mid_size",
+    "avg_orders_per_day": 50,
+    "cuisine": "italian",
+    "base_kpt_minutes": 15,
+    "concurrent_capacity": 5,
+    "for_accuracy": 0.65,
+    "rush_hours": [13, 20, 21]
+  },
+  {
+    "merchant_id": "M003",
+    "name": "Small - Local Cafe",
+    "type": "small",
+    "avg_orders_per_day": 20,
+    "cuisine": "cafe",
+    "base_kpt_minutes": 12,
+    "concurrent_capacity": 3,
+    "for_accuracy": 0.58,
+    "rush_hours": [12, 13]
+  }
+]
