@@ -1,0 +1,10 @@
+Statistical Validation Results
+==================================================
+
+Paired t-test (Rider Wait Time):
+t-statistic: 51.3434
+p-value: 0.000000
+Significant at alpha=0.001: YES
+
+Effect Size (Cohen's d): 0.3221
+Interpretation: Medium/Small effect
